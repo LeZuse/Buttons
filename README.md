@@ -24,3 +24,6 @@ git clone -b svg-inline-experiments --single-branch https://github.com/LeZuse/in
 ```
 
 And then go ahead and have a look at the Gruntfile.js
+
+## Credits
+https://css-tricks.com/gotchas-on-getting-svg-into-production/
