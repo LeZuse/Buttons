@@ -20,7 +20,7 @@ http://css-tricks.com/tag/svg/
 Ok…ok, the tl;dr is to hit the terminal and type:
 
 ```
-git clone -b svg-inline-experiments --single-branch https://github.com/unicorn-ui/Buttons.git Buttons && cd Buttons && npm install && pushd svg-builder && npm install && grunt && popd && grunt dev
+git clone -b svg-inline-experiments --single-branch https://github.com/LeZuse/inline-svg.git inline-svg && cd inline-svg && npm install && pushd svg-builder && npm install && grunt && popd && grunt dev
 ```
 
 And then go ahead and have a look at the Gruntfile.js
